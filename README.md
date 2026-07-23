@@ -23,8 +23,9 @@ The system is defined by these governing differential equations:
 
 ## 📊 Results & Visualization
 Running the simulation generates a time-series dataset showing the reactor's startup phase, the ignition of the exothermic reaction, and the eventual stabilization at steady-state conditions.
+
 ![CSTR Dynamic Response](result.png)
-<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/e4a52ea4-4d38-43e1-a669-119d5b9a9cbe" />
+
 ## 🚀 How to Run
 1. Clone the repository.
 2. Compile the C++ code using any standard compiler (e.g., GCC):
